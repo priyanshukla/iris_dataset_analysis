@@ -1,10 +1,7 @@
-# iris_dataset_analysis
+﻿# iris_dataset_analysis
 Classification Algorithm on Iris Dataset
 
 
-MINOR PROJECT
-
-SUBJECT: AI – MINOR – JUNE 
 
 
 
